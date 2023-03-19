@@ -1,0 +1,18 @@
+.columna1{
+    display: inline;
+    margin: auto;
+    
+}
+.columna2{
+    height:auto;
+}
+div.columna2 img{
+    width:100%;
+    height:100%;
+}
+.contraseña{
+    color: rgb(0, 0, 0);
+}
+.pie a{
+    display: block;
+}
